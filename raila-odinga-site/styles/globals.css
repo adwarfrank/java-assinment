@@ -1,0 +1,74 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* Design tokens (Tailwind v4) */
+:root {
+  --color-brand-orange: #ff8000;
+  --color-brand-blue: #0057b8;
+  --color-brand-white: #ffffff;
+  --color-ink: #0a1a33;
+
+  --background: var(--color-brand-white);
+  --foreground: var(--color-ink);
+}
+
+@theme inline {
+  --color-brand-orange: var(--color-brand-orange);
+  --color-brand-blue: var(--color-brand-blue);
+  --color-brand-white: var(--color-brand-white);
+  --color-ink: var(--color-ink);
+
+  --font-heading: var(--font-space-grotesk);
+  --font-body: var(--font-inter);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body), ui-sans-serif, system-ui, -apple-system,
+    Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Arial,
+    "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+/* Utilities */
+.container-responsive {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+.btn-primary {
+  @apply inline-flex items-center gap-2 rounded-md bg-[color:var(--color-brand-orange)] px-5 py-3 font-medium text-white shadow-md transition hover:shadow-[0_0_20px_rgba(255,128,0,0.35)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[color:var(--color-brand-blue)] focus-visible:ring-offset-2;
+}
+
+.btn-secondary {
+  @apply inline-flex items-center gap-2 rounded-md border border-[color:var(--color-brand-blue)] bg-transparent px-5 py-3 font-medium text-[color:var(--color-brand-blue)] transition hover:bg-[color:var(--color-brand-blue)] hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[color:var(--color-brand-blue)] focus-visible:ring-offset-2;
+}
+
+.section-title {
+  @apply font-heading text-3xl sm:text-4xl tracking-tight text-[color:var(--color-ink)];
+}
+
+/* Hero gradient overlay */
+.hero-overlay {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.35) 0%,
+    rgba(0, 0, 0, 0.5) 40%,
+    rgba(10, 26, 51, 0.75) 100%
+  );
+}
+
+/* Anchor offset for fixed navbar */
+section[id] {
+  scroll-margin-top: 88px;
+}
