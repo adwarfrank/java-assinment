@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "about": "Kuhusu",
+    "timeline": "Ratiba",
+    "vision": "Maono",
+    "media": "Vyombo vya Habari",
+    "news": "Habari",
+    "projects": "Miradi",
+    "contact": "Wasiliana"
+  },
+  "hero": {
+    "tagline": "Umoja. Huduma. Maendeleo.",
+    "ctaExplore": "Gundua Hadithi Yake",
+    "ctaJoin": "Jiunge na Harakati"
+  }
+}

@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+:root {
+  --orange: #FF8000;
+  --blue: #0057B8;
+  --white: #FFFFFF;
+  --textDark: #0A1A33;
+}
+
+@theme inline {
+  --color-orange: var(--orange);
+  --color-blue: var(--blue);
+  --color-white: var(--white);
+  --color-textDark: var(--textDark);
+  --font-heading: var(--font-space-grotesk);
+  --font-body: var(--font-inter);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--white);
+  color: var(--textDark);
+  font-family: var(--font-body);
+}
+
+/* Base typography */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+/* Buttons */
+.button-primary {
+  @apply inline-flex items-center justify-center rounded-full bg-[var(--orange)] text-white px-6 py-3 font-semibold shadow-sm transition focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-[var(--blue)] hover:shadow-[0_0_0_3px_rgba(255,128,0,0.25)];
+}
+
+.button-secondary {
+  @apply inline-flex items-center justify-center rounded-full border border-[var(--orange)] text-[var(--orange)] px-6 py-3 font-semibold transition hover:bg-[var(--orange)] hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-[var(--blue)];
+}
+
+/* Section spacing */
+.section {
+  @apply py-16 md:py-24;
+}
+
+/* Container */
+.container {
+  @apply mx-auto w-full max-w-6xl px-4 md:px-6;
+}
+
+/* Visually hidden (a11y) */
+.sr-only { @apply absolute w-px h-px p-0 -m-px overflow-hidden whitespace-nowrap border-0; }
