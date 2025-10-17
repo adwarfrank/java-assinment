@@ -1,0 +1,190 @@
+{
+  "nav": {
+    "about": "Kuhusu",
+    "timeline": "Historia",
+    "vision": "Maono",
+    "media": "Picha/Video",
+    "news": "Habari",
+    "projects": "Miradi",
+    "contact": "Wasiliana",
+    "joinMovement": "Jiunge Nasi"
+  },
+  "hero": {
+    "title": "Raila Amolo Odinga",
+    "tagline": {
+      "unity": "Umoja",
+      "service": "Huduma",
+      "progress": "Maendeleo"
+    },
+    "subtitle": "Waziri Mkuu wa Zamani wa Kenya • Mjumbe Mkuu wa AU kwa Maendeleo ya Miundombinu • Shujaa wa Demokrasia na Umoja",
+    "cta": {
+      "exploreStory": "Gundua Hadithi Yake",
+      "watchVideo": "Tazama Video",
+      "joinMovement": "Jiunge na Harakati"
+    },
+    "stats": {
+      "yearsOfService": "Miaka ya Huduma",
+      "livesImpacted": "Watu Walionufaika",
+      "countriesServed": "Nchi za AU Zilizohudumia",
+      "infrastructureProjects": "Miradi ya Miundombinu"
+    }
+  },
+  "about": {
+    "title": "Kuhusu Raila Amolo Odinga",
+    "subtitle": "Maisha yaliyotolewa kwa huduma ya Kenya na Afrika",
+    "peoplesPresident": "Rais wa Wananchi",
+    "biography": {
+      "intro": "Alizaliwa tarehe 7 Januari, 1945, huko Maseno, Kaunti ya Kisumu, Raila Amolo Odinga ni mwana wa Makamu wa Rais wa kwanza wa Kenya, Jaramogi Oginga Odinga, na Mary Ajuma Odinga.",
+      "education": "Baada ya kumaliza masomo yake katika Chuo Kikuu cha Magdeburg, ambapo alipata shahada ya Uhandisi wa Mitambo, Raila alirudi Kenya mnamo 1970.",
+      "political": "Safari yake ya kisiasa imejengwa na dhabihu za kibinafsi, ikiwa ni pamoja na miaka ya kizuizini bila kesi (1982-1988) kwa kupigania dhidi ya utawala wa kidikteta.",
+      "current": "Leo, kama Mjumbe Mkuu wa Umoja wa Afrika kwa Maendeleo ya Miundombinu, Raila anaendelea kutetea umoja wa Ki-Afrika, ushirikiano wa kiuchumi, na maendeleo endelevu kote bara."
+    },
+    "achievements": {
+      "democratic": {
+        "title": "Shujaa wa Demokrasia",
+        "description": "Mtetezi wa maisha yote wa demokrasia na haki za binadamu nchini Kenya"
+      },
+      "primeMinister": {
+        "title": "Waziri Mkuu wa Zamani",
+        "description": "Alihudumu kama Waziri Mkuu wa Kenya kutoka 2008 hadi 2013"
+      },
+      "auRep": {
+        "title": "Mjumbe Mkuu wa AU",
+        "description": "Kuongoza maendeleo ya miundombinu kote Afrika"
+      },
+      "unityBuilder": {
+        "title": "Mjenzi wa Umoja",
+        "description": "Kutetea maelewano ya kitaifa na ujumuishaji"
+      }
+    },
+    "downloadBio": "Pakua Wasifu Kamili",
+    "quote": "Mageuzi si tukio bali ni mchakato. Demokrasia halisi si tu kuhusu uchaguzi, bali ni kuhusu kuunda taasisi zinazowahudumia watu wote kwa usawa na haki."
+  },
+  "timeline": {
+    "title": "Safari Kupitia Wakati",
+    "subtitle": "Maisha yaliyotolewa kwa huduma, demokrasia, na maendeleo ya Kenya na Afrika",
+    "downloadBio": "Pakua Wasifu Kamili"
+  },
+  "vision": {
+    "title": "Maono kwa Kenya na Afrika",
+    "subtitle": "Mpango kamili wa mabadiliko, ustawi, na umoja",
+    "commitment": {
+      "title": "Ahadi Yetu",
+      "description": "Pamoja, tutajenga Kenya ambapo kila raia ana fursa sawa, ambapo uvumbuzi unaendesha uchumi wetu, ambapo hakuna anayeachwa nyuma, na ambapo umoja wetu ni nguvu yetu kuu. Hii si maono tu—ni ahadi yetu kwa vizazi vijavyo."
+    },
+    "learnMore": "Jifunze Zaidi"
+  },
+  "media": {
+    "title": "Matundu ya Picha/Video",
+    "subtitle": "Kukamata wakati wa uongozi, huduma, na umoja",
+    "loadMore": "Pakia Zaidi",
+    "filters": {
+      "all": "Zote",
+      "rallies": "Mikutano",
+      "speeches": "Hotuba",
+      "diplomatic": "Kidiplomasia",
+      "community": "Jamii",
+      "interviews": "Mahojiano",
+      "historic": "Historia",
+      "youth": "Vijana"
+    }
+  },
+  "news": {
+    "title": "Habari na Taarifa Mpya",
+    "subtitle": "Baki na habari za maendeleo na mipango mipya",
+    "readMore": "Soma Zaidi",
+    "readFullArticle": "Soma Makala Nzima",
+    "showLess": "Onyesha Kidogo",
+    "featured": "Iliyoangaziwa",
+    "newsletter": {
+      "title": "Baki Sanjari",
+      "description": "Jiandikishe kwa jarida letu upate habari mpya, taarifa, na maudhui ya kipekee moja kwa moja kwenye barua pepe yako.",
+      "placeholder": "Weka barua pepe yako",
+      "subscribe": "Jiandikishe Sasa"
+    }
+  },
+  "projects": {
+    "title": "Miradi ya Jamii na Mipango",
+    "subtitle": "Kuleta mabadiliko halisi katika jamii kote Kenya kupitia miradi endelevu ya maendeleo",
+    "stats": {
+      "activeProjects": "Miradi Hai",
+      "beneficiaries": "Wanufaika",
+      "countiesReached": "Kaunti Zilizofikiwa",
+      "fundsRaised": "Fedha Zilizokusanywa"
+    },
+    "progress": "Maendeleo",
+    "raised": "Zilizokusanywa",
+    "goal": "Lengo",
+    "learnMore": "Jifunze Zaidi",
+    "donateNow": "Changia Sasa",
+    "cta": {
+      "title": "Kuwa Sehemu ya Mabadiliko",
+      "description": "Mchango wako, hata kama ni mdogo, unaleta tofauti kubwa katika kubadilisha maisha na kujenga Kenya bora kwa wote.",
+      "makeDonation": "Toa Mchango",
+      "becomeVolunteer": "Kuwa Kujitolea"
+    }
+  },
+  "contact": {
+    "title": "Wasiliana Nasi",
+    "subtitle": "Wasiliana nasi ujue zaidi kuhusu mipango yetu au kushiriki katika kujenga Kenya bora",
+    "form": {
+      "fullName": "Jina Kamili",
+      "email": "Barua Pepe",
+      "phone": "Nambari ya Simu",
+      "subject": "Mada",
+      "message": "Ujumbe",
+      "messagePlaceholder": "Tuambie jinsi tunaweza kukusaidia...",
+      "required": "Sehemu zinazohitajika",
+      "sendMessage": "Tuma Ujumbe",
+      "sending": "Inatuma...",
+      "newsletterOptIn": "Jiandikishe kupata taarifa na habari mpya",
+      "subjects": {
+        "general": "Swali la Jumla",
+        "media": "Ombi la Vyombo vya Habari",
+        "partnership": "Fursa ya Ushirikiano",
+        "volunteer": "Kujitolea",
+        "donation": "Mchango",
+        "other": "Mengine"
+      }
+    },
+    "info": {
+      "title": "Maelezo ya Mawasiliano",
+      "description": "Wasiliana nasi kupitia njia zozote zifuatazo. Tuko hapa kusikiliza na kushirikiana nawe.",
+      "phone": "Simu",
+      "email": "Barua Pepe",
+      "office": "Ofisi",
+      "followUs": "Tufuate"
+    },
+    "success": {
+      "title": "Ujumbe umetumwa kwa mafanikio!",
+      "description": "Tutawasiliana nawe hivi karibuni."
+    }
+  },
+  "footer": {
+    "tagline": "Umoja. Huduma. Maendeleo.",
+    "about": "Kuhusu",
+    "resources": "Rasilimali",
+    "getInvolved": "Shiriki",
+    "contact": "Wasiliana",
+    "links": {
+      "biography": "Wasifu",
+      "timeline": "Historia",
+      "achievements": "Mafanikio",
+      "vision": "Maono",
+      "newsUpdates": "Habari na Taarifa",
+      "mediaGallery": "Matundu ya Picha",
+      "pressReleases": "Taarifa kwa Vyombo vya Habari",
+      "publications": "Machapisho",
+      "projects": "Miradi",
+      "donate": "Changia",
+      "volunteer": "Jitolee",
+      "events": "Matukio",
+      "privacyPolicy": "Sera ya Faragha",
+      "termsOfService": "Masharti ya Huduma",
+      "cookiePolicy": "Sera ya Vidakuzi",
+      "accessibility": "Ufikiaji"
+    },
+    "copyright": "© {{year}} Raila Amolo Odinga. Haki zote zimehifadhiwa.",
+    "madeWith": "Imetengenezwa kwa ❤️ kwa Kenya"
+  }
+}

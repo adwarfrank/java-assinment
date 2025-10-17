@@ -1,0 +1,190 @@
+{
+  "nav": {
+    "about": "About",
+    "timeline": "Timeline",
+    "vision": "Vision",
+    "media": "Media",
+    "news": "News",
+    "projects": "Projects",
+    "contact": "Contact",
+    "joinMovement": "Join Movement"
+  },
+  "hero": {
+    "title": "Raila Amolo Odinga",
+    "tagline": {
+      "unity": "Unity",
+      "service": "Service",
+      "progress": "Progress"
+    },
+    "subtitle": "Former Prime Minister of Kenya • AU High Representative for Infrastructure Development • Champion of Democracy and Unity",
+    "cta": {
+      "exploreStory": "Explore His Story",
+      "watchVideo": "Watch Video",
+      "joinMovement": "Join the Movement"
+    },
+    "stats": {
+      "yearsOfService": "Years of Service",
+      "livesImpacted": "Lives Impacted",
+      "countriesServed": "AU Countries Served",
+      "infrastructureProjects": "Infrastructure Projects"
+    }
+  },
+  "about": {
+    "title": "About Raila Amolo Odinga",
+    "subtitle": "A lifetime of service to Kenya and Africa",
+    "peoplesPresident": "The People's President",
+    "biography": {
+      "intro": "Born on January 7, 1945, in Maseno, Kisumu County, Raila Amolo Odinga is the son of Kenya's first Vice President, Jaramogi Oginga Odinga, and Mary Ajuma Odinga.",
+      "education": "After completing his education at the University of Magdeburg, where he earned a degree in Mechanical Engineering, Raila returned to Kenya in 1970.",
+      "political": "His political journey has been marked by personal sacrifice, including years of detention without trial (1982-1988) for his fight against authoritarian rule.",
+      "current": "Today, as the African Union High Representative for Infrastructure Development, Raila continues to champion pan-African unity, economic integration, and sustainable development across the continent."
+    },
+    "achievements": {
+      "democratic": {
+        "title": "Democratic Champion",
+        "description": "Lifelong advocate for democracy and human rights in Kenya"
+      },
+      "primeMinister": {
+        "title": "Former Prime Minister",
+        "description": "Served as Prime Minister of Kenya from 2008 to 2013"
+      },
+      "auRep": {
+        "title": "AU High Representative",
+        "description": "Leading infrastructure development across Africa"
+      },
+      "unityBuilder": {
+        "title": "Unity Builder",
+        "description": "Championing national reconciliation and inclusivity"
+      }
+    },
+    "downloadBio": "Download Full Biography",
+    "quote": "Reform is not an event but a process. True democracy is not just about elections, but about creating institutions that serve all people equally and justly."
+  },
+  "timeline": {
+    "title": "Journey Through Time",
+    "subtitle": "A lifetime dedicated to service, democracy, and the advancement of Kenya and Africa",
+    "downloadBio": "Download Full Biography"
+  },
+  "vision": {
+    "title": "Vision for Kenya & Africa",
+    "subtitle": "A comprehensive blueprint for transformation, prosperity, and unity",
+    "commitment": {
+      "title": "Our Commitment",
+      "description": "Together, we will build a Kenya where every citizen has equal opportunities, where innovation drives our economy, where no one is left behind, and where our unity is our greatest strength. This is not just a vision—it's our promise to future generations."
+    },
+    "learnMore": "Learn More"
+  },
+  "media": {
+    "title": "Media Gallery",
+    "subtitle": "Capturing moments of leadership, service, and unity",
+    "loadMore": "Load More Media",
+    "filters": {
+      "all": "All",
+      "rallies": "Rallies",
+      "speeches": "Speeches",
+      "diplomatic": "Diplomatic",
+      "community": "Community",
+      "interviews": "Interviews",
+      "historic": "Historic",
+      "youth": "Youth"
+    }
+  },
+  "news": {
+    "title": "Latest News & Updates",
+    "subtitle": "Stay informed about the latest developments and initiatives",
+    "readMore": "Read More",
+    "readFullArticle": "Read Full Article",
+    "showLess": "Show Less",
+    "featured": "Featured",
+    "newsletter": {
+      "title": "Stay Updated",
+      "description": "Subscribe to our newsletter and receive the latest news, updates, and exclusive content directly to your inbox.",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe Now"
+    }
+  },
+  "projects": {
+    "title": "Community Projects & Initiatives",
+    "subtitle": "Making a tangible difference in communities across Kenya through sustainable development projects",
+    "stats": {
+      "activeProjects": "Active Projects",
+      "beneficiaries": "Beneficiaries",
+      "countiesReached": "Counties Reached",
+      "fundsRaised": "Funds Raised"
+    },
+    "progress": "Progress",
+    "raised": "Raised",
+    "goal": "Goal",
+    "learnMore": "Learn More",
+    "donateNow": "Donate Now",
+    "cta": {
+      "title": "Be Part of the Change",
+      "description": "Your contribution, no matter how small, makes a significant difference in transforming lives and building a better Kenya for all.",
+      "makeDonation": "Make a Donation",
+      "becomeVolunteer": "Become a Volunteer"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Connect with us to learn more about our initiatives or to get involved in building a better Kenya",
+    "form": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Message",
+      "messagePlaceholder": "Tell us how we can help you...",
+      "required": "Required fields",
+      "sendMessage": "Send Message",
+      "sending": "Sending...",
+      "newsletterOptIn": "Subscribe to our newsletter for updates and news",
+      "subjects": {
+        "general": "General Inquiry",
+        "media": "Media Request",
+        "partnership": "Partnership Opportunity",
+        "volunteer": "Volunteer",
+        "donation": "Donation",
+        "other": "Other"
+      }
+    },
+    "info": {
+      "title": "Contact Information",
+      "description": "Reach out to us through any of the following channels. We're here to listen and engage with you.",
+      "phone": "Phone",
+      "email": "Email",
+      "office": "Office",
+      "followUs": "Follow Us"
+    },
+    "success": {
+      "title": "Message sent successfully!",
+      "description": "We'll get back to you as soon as possible."
+    }
+  },
+  "footer": {
+    "tagline": "Unity. Service. Progress.",
+    "about": "About",
+    "resources": "Resources",
+    "getInvolved": "Get Involved",
+    "contact": "Contact",
+    "links": {
+      "biography": "Biography",
+      "timeline": "Timeline",
+      "achievements": "Achievements",
+      "vision": "Vision",
+      "newsUpdates": "News & Updates",
+      "mediaGallery": "Media Gallery",
+      "pressReleases": "Press Releases",
+      "publications": "Publications",
+      "projects": "Projects",
+      "donate": "Donate",
+      "volunteer": "Volunteer",
+      "events": "Events",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "cookiePolicy": "Cookie Policy",
+      "accessibility": "Accessibility"
+    },
+    "copyright": "© {{year}} Raila Amolo Odinga. All rights reserved.",
+    "madeWith": "Made with ❤️ for Kenya"
+  }
+}
