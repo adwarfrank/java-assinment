@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "about": "About",
+    "timeline": "Timeline",
+    "vision": "Vision",
+    "media": "Media",
+    "news": "News",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Unity. Service. Progress.",
+    "ctaExplore": "Explore His Story",
+    "ctaJoin": "Join the Movement"
+  }
+}
